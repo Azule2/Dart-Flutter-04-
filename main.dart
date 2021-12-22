@@ -1,0 +1,1 @@
+child: Image.network('lineImage'),
